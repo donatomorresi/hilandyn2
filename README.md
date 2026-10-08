@@ -6,12 +6,12 @@ High-dimensional detection of Landscape Dynamics 2 (HILANDYN2)
 
 <!-- badges: start -->
 
-[![Release version][release-badge]][source]
+[![GitHub release][release-badge]][latest-release]
 [![R build status][build-badge]][build-status]
 
 [release-badge]:
-  https://img.shields.io/badge/release%20version-1.1.0-blue.svg
-[source]: https://github.com/donatomorresi/hilandyn2
+  https://img.shields.io/github/v/release/donatomorresi/hilandyn2
+[latest-release]: https://github.com/donatomorresi/hilandyn2/releases/latest
 [build-badge]:
   https://github.com/donatomorresi/hilandyn2/actions/workflows/R-CMD-check.yaml/badge.svg
 [build-status]: https://github.com/donatomorresi/hilandyn2/actions/workflows/R-CMD-check.yaml
@@ -49,7 +49,7 @@ discrete wavelet packet transform (MODWPT; Percival & Walden, 2000).
 
 ## Installation
 
-You can install the latest release of `hilandyn2` from
+You can install the latest code from the default branch of `hilandyn2` on
 [GitHub](https://github.com/) with:
 
 ``` r
